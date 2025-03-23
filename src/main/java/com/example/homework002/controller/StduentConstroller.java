@@ -22,6 +22,4 @@ public class StduentConstroller {
     public List<Student> getStudents() {
         return stduentConstroller.getAllStudent();
     }
-
-
 }
